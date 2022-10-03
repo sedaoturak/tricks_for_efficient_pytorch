@@ -1,2 +1,7 @@
-# tricks_for_faster_pytorch
-This repository consists of some tricks to speed up the codes written by PyTorch library.
+# Tricks for Faster Pytorch
+
+This repository lists of some tricks to speed up performance of PyTorch models.
+
+It was prepared by using the resources below.
+
+Any contribution is more than welcome!
