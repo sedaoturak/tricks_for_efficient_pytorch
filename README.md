@@ -1,4 +1,4 @@
-# Tricks for Faster Pytorch
+# Tricks for Efficient Pytorch
 
 This repository lists of some tricks to speed up performance of PyTorch models.
 
